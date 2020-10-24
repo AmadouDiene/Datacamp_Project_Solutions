@@ -1,1 +1,1 @@
-# Solved Datacamp Projects
+# My solutions to Datacamp Projects
