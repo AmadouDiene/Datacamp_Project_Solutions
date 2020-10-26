@@ -10,3 +10,5 @@
 [Level Difficulty in Candy Crush Saga](https://github.com/AmadouDiene/Datacamp_Project_Solutions/tree/main/Level%20Difficulty%20in%20Candy%20Crush%20Saga)(Calculating probability of completing different levels in Candy Crush)
 
 [Wrangling and Visualizing Music Data](https://github.com/AmadouDiene/Datacamp_Project_Solutions/tree/main/Wrangling%20and%20Visualizing%20Musical%20Data)(Comaparing most common chords and bigrams)
+
+[Visualizing COVID-19](https://github.com/AmadouDiene/Datacamp_Project_Solutions/tree/main/Visualizing%20COVID-19)(Hardest hit Countries outside of China as of Mid-March 2020)
