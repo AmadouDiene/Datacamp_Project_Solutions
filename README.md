@@ -6,3 +6,5 @@
 [Exploring the Kaggle Data Science Survey](https://github.com/AmadouDiene/Datacamp_Project_Solutions/tree/main/Exploring%20the%20Kaggle%20Data%20Science%20Survey) (Programs used and recommended on Kaggle in 2017)
 
 [Data Science for Social Good: Crime Study](https://github.com/AmadouDiene/Datacamp_Project_Solutions/tree/main/Data%20Science%20for%20Social%20Good:%20Crime%20Study)(Grand Theft Auto hotspots in San Francisco from 2016-2018)
+
+[Level Difficulty in Candy Crush Saga](https://github.com/AmadouDiene/Datacamp_Project_Solutions/tree/main/Level%20Difficulty%20in%20Candy%20Crush%20Saga)
