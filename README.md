@@ -7,4 +7,4 @@
 
 [Data Science for Social Good: Crime Study](https://github.com/AmadouDiene/Datacamp_Project_Solutions/tree/main/Data%20Science%20for%20Social%20Good:%20Crime%20Study)(Grand Theft Auto hotspots in San Francisco from 2016-2018)
 
-[Level Difficulty in Candy Crush Saga](https://github.com/AmadouDiene/Datacamp_Project_Solutions/tree/main/Level%20Difficulty%20in%20Candy%20Crush%20Saga)
+[Level Difficulty in Candy Crush Saga](https://github.com/AmadouDiene/Datacamp_Project_Solutions/tree/main/Level%20Difficulty%20in%20Candy%20Crush%20Saga)(Calculating probability of completing different levels in Candy Crush)
